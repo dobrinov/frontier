@@ -13,6 +13,7 @@ gem 'uglifier'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri]
+  gem 'rspec-rails'
 end
 
 group :development do
