@@ -5,6 +5,7 @@ ruby '2.5.1'
 
 gem 'bootsnap', require: false
 gem 'capybara'
+gem 'devise'
 gem 'font-awesome-sass'
 gem 'rails'
 gem 'pg'
